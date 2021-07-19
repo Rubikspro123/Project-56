@@ -1,0 +1,16 @@
+.img{
+    width: 200px;
+}
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.sec{
+    display: flex;
+}
+.sec1{
+    display: flex;
+    margin-left: 25px;
+    margin-right: 25px;
+    justify-content:  center;
+}
